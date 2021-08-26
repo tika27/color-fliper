@@ -1,6 +1,6 @@
 # Color-Flipper
 
-An app where user can click on for different color
+An app where user can click to view different colors
 
 JavaScript
 
