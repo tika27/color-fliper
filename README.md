@@ -2,8 +2,8 @@
 
 An app where user can click on for different color
 
-# JavaScript
+JavaScript
 
-# CSS
+CSS
 
-# HTML
+HTML
